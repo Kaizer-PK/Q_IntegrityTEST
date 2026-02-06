@@ -3358,21 +3358,28 @@ def _read_pdf_text_robust(abs_path: str, force_ocr: bool = False) -> Tuple[str, 
 
     # 3) Fallback: pdf2image + pytesseract
     try:
-        from pdf2image import convert_from_path  # type: ignore
-        import pytesseract  # type: ignore
-        # En Streamlit Cloud, Poppler y Tesseract están en el PATH del sistema
-        images = convert_from_path(abs_path, dpi=300)
-        diag.append(f"convert_from_path devolvió {len(images)} imágenes")
-        ocr_pages: List[str] = []
-        for idx, img in enumerate(images):
-            try:
+        # Extraer texto con pdfplumber primero
+        import pdfplumber
+        text = ""
+        with pdfplumber.open(abs_path) as pdf:
+            for page in pdf.pages:
+                page_text = page.extract_text()
+                if page_text:
+                    text += page_text + "\n"
+        text = text.strip()
+        diag.append(f"pdfplumber extrajo {len(text)} caracteres")
+        if not text:
+            # Si no hay texto, usar OCR
+            from pdf2image import convert_from_path
+            import pytesseract
+            images = convert_from_path(abs_path, dpi=300)
+            diag.append(f"convert_from_path devolvió {len(images)} imágenes")
+            ocr_pages = []
+            for idx, img in enumerate(images):
                 ptext = pytesseract.image_to_string(img, lang="spa")
                 ocr_pages.append(ptext)
                 diag.append(f"Página {idx+1}: extraídos {len(ptext)} chars")
-            except Exception as e:
-                diag.append(f"Página {idx+1}: error pytesseract: {e}")
-                ocr_pages.append("")
-        text = "\n".join(ocr_pages).strip()
+            text = "\n".join(ocr_pages).strip()
         if text:
             with open(cache_path, "w", encoding="utf-8") as f:
                 f.write(text)
