@@ -1,0 +1,565 @@
+ESCUELA
+
+IPCHILE 9 INGENIERÍA Y PROCESOS
+
+INSTITUTO PROFESIONAL DE CHILE INDUSTRIALES
+
+Escuela de Ingeniería y Procesos Industriales
+
+ACTIVIDAD DE INTEGRACIÓN SEGUIMIENTO DEL LOGRO DEL PE | RFIL DE EGRESO
+CARRERA ANALISTA PROGRAMADOR COMPUTACIONAL
+
+¿En qué consiste la actividad de asignatura núcleo?
+
+En la actualidad, las instituciones de educación superior han adoptado modelos educativos basados en
+competencias, los cuales buscan integrar el aprendizaje con el ejercicio profesional, desarrollando
+competencias adecuadas a las demandas del mundo laboral. La actividad de asignatura núcleo, se refiere a la
+integración interdisciplinaria de los conocimientos adquiridos en temas separados de una misma disciplina,
+para resolver problemas propios de dicha profesión.
+
+La actividad de evaluación de asignatura núcleo, es un proceso sistemático y riguroso que se lleva a cabo
+semestralmente con el objetivo de evaluar los avances en el logro del perfil de egreso de los estudiantes, es
+decir, su progreso en la adquisición de conocimientos y habilidades necesarias para el mundo laboral. Esta
+actividad se basa en metodologías activas que permiten a los estudiantes discutir temas disciplinarios,
+elaborar hipótesis y planes de intervención y recomendaciones pertinentes.
+
+Para cumplir con el objetivo de la actividad de integración, se consideran las competencias disciplinarias y de
+sello, y los resultados de aprendizaje de la asignatura que contribuyen al perfil de egreso. En resumen, la
+actividad de integración es un componente fundamental en los modelos educativos basados en competencias,
+ya que permite evaluar la adquisición de habilidades y conocimientos necesarios para el mundo laboral a
+través de la integración de temas disciplinarios y la resolución de problemas propios de la profesión.
+
+Metodología
+
+La evaluación semestral de la asignatura núcleo se llevará a cabo en la asignatura integradora disciplinarmente
+en mismo semestre del plan de estudios. Esta evaluación reemplazará la EPE 3 en la modalidad presencial y
+en la EPE3 modalidad virtual y su resultado se incluirá en dicha evaluación.
+
+A través de la Metodología de estudio de caso, se expondrá una situación, con antecedentes reales, a la cual
+se puede enfrentar a lo largo de su desempeño laboral, para lo cual el docente “debe resolver los casos
+propuestos, evaluar su pertinencia en el seno del marco teórico en el que trabaja, establecer sus fronteras con
+claridad en caso Tnecesario Yy justificar de forma uficiente 2porqué  es relevante”
+https://www.lluiscodina.com/estudios-de-caso/.
+
+Esta actividad se desarrollará de forma individual, ya que fomenta el pensamiento crítico y la autonomía: Al
+pues las y los estudiantes tienen que tomar decisiones por sí mismos, analizar y resolver problemas de forma
+autónoma, lo que puede fomentar su pensamiento crítico y su capacidad para tomar decisiones.
+
+Además, Permite medir el nivel de desempeño individual: La evaluación individual permite medir de manera
+más precisa el nivel de desempeño de cada estudiante en la asignatura, lo que puede ser útil para identificar
+fortalezas y debilidades individuales y diseñar estrategias de enseñanza y aprendizaje personalizadas.
+
+Después de analizar cuidadosamente la situación, es necesario que se respondan o desarrollen los requisitos
+de la asignatura correspondiente. Para evaluar este proceso, se utilizará una rúbrica, instrumento que permite
+medir el nivel de desempeño y el grado de éxito de la actividad. La rúbrica describe varios niveles de logro y
+proporciona retroalimentación al estudiante sobre su desempeño, lo que le permite identificar sus fortalezas
+y debilidades en relación con los resultados esperados o la adquisición de la competencia
+
+
+ESCUELA
+
+IPCHILE 9 INGENIERÍA Y PROCESOS
+
+INSTITUTO PROFESIONAL DE CHILE
+Escuela de Ingeniería y Procesos Industriales INDUSTRIALES
+
+—ÑÍ— Ú — F —Ñ ]] o _——].——Ú—;—;—————;—;—;;—;]—;];LE O PA
+
+NOMBRE Y CÓDIGO DE ASIGNATURA: 810TJ04 - TALLER DE APLICACIÓN JAVA
+
+SEMESTRE:
+Porcentaje ideal 60 pts. Fecha de inicio
+Porcentaje de aprobación 60% Fecha de entrega
+Puntos de aprobación 36 pts. N* de sesiones de trabajo No Completar
+
+PERFIL DE EGRESO
+
+El titulado de la carrera de Técnico de Nivel Superior en Analista Programador Computacional cuenta con
+una sólida formación teórico-práctica que le permite desarrollar y administrar diferentes plataformas de
+software, en las que centra su quehacer en mantener la operatividad de los diferentes componentes
+tecnológicos, desde el área de análisis y desarrollo de sistemas computacionales en la organización donde
+le compete actuar.
+
+Es un técnico capacitado en reformar deficiencias, implementar mejoras en sistemas existentes o
+desarrollar nuevas plataformas, seleccionando modalidades efectivas de comunicación con su entorno
+profesional. Sus actividades profesionales se basan en la instalación, configuración y soporte de los
+diferentes componentes de hardware y software que componen una plataforma tecnológica, integrando
+el sistema operativo, el tratamiento de la información y la integridad de la misma.
+
+Se caracteriza por exhibir vocación de servicio, compromiso y consciencia social, siendo capaz de establecer
+relaciones de cooperación con equipos multidisciplinarios, adaptándose a las exigencias que implica el
+desempeño profesional, confiando en sus capacidades y gestionando la actualización permanente de sus
+
+conocimientos, demostrando, en suma, un alto compromiso ético profesional.
+
+COMPETENCIA DISCIPLINAR RESULTADO (S) DE APRENDIZAJE(S) DE LA ASIGNATURA
+INTEGRADORA
+
+
+ESCUELA
+INGENIERÍA Y PROCESOS
+INDUSTRIALES
+
+IPCHILE
+
+INSTITUTO PROFESIONAL DE CHILE
+
+Escuela de Ingeniería y Procesos Industriales
+
+2.2. Diseña plataformas de <software
+rigiéndose por las especificaciones y criterios
+establecidos por la
+
+organización mandate y basándose en una
+metodología de desarrollo.
+
+2.3. Desarrolla plataformas de software,
+rigiéndose por las especificaciones de diseño,
+seleccionando
+
+los componentes de acuerdo a su
+funcionamiento, adaptabilidad y eficiencia.
+
+RA1. Identifica los lenguajes de programación para un
+ambiente WEB y los componentes de cada uno de ellos,
+para el diseño de aplicaciones que respondan a las
+necesidades de una plataforma web, cumpliendo los
+lineamientos dados para el desarrollo.
+
+RA2. Analiza el patrón de arquitectura con el fin del
+control de códigos a través de Framework PHP para un
+correcto tratamiento de los datos y así fomentar la
+eficiencia en los procesos de una empresa,
+comprometiéndose con el cumplimiento de las tareas
+encomendadas
+
+RA3. Desarrolla aplicaciones WEB estáticas y dinámicas,
+utilizando lenguajes, además de técnicas de programación
+que incorporan tecnologías actuales en el mercado
+informático, para brindar soluciones funcionales y
+consecuentes con los requerimientos planteados, además
+de interactuar con otros individuos de su entorno cercano,
+siendo consciente de la heterogeneidad del grupo.
+
+RA4. Evalúa herramientas computacionales adecuadas,
+para el desarrollo de aplicaciones WEB considerando una
+arquitectura JEE, además del diseño de plataformas
+computacionales bajo una arquitectura adecuada y
+robusta, con el fin de asegurar la integridad de los datos,
+cumpliendo con los lineamientos dados.
+
+DIMENSIÓN DEL SELLO
+
+NIVELES DEL SELLO
+
+ADA. 1.1. RESPETO: Reconocimiento de la valía
+de su postura y de la diversidad de opiniones,
+realidades, condiciones, ajustando u
+desempeño presente y futuro.
+
+ADA. 1.1.1. Reconoce su postura y opiniones distintas a
+las propias.
+
+ADA. 1.1.3. Ajusta su comportamiento incorporando la
+valía de diferentes opiniones
+
+ASIGNATURA:
+
+DESCRIPCIÓN DE LA ACTIVIDAD DE INTEGRACIÓN:
+
+La actividad tiene como objetivo principal brindar a los participantes una comprensión profunda de la
+programación web a través del análisis de casos prácticos. Se busca que los participantes puedan identificar
+problemas comunes, proponer soluciones efectivas y aplicar estrategias de programación para mejorar el
+
+rendimiento y la eficiencia.
+
+REQUISITOS FORMALES:
+
+1. Documento formato Word: Calibrí tamaño 12, color automático, interlineado 1.15, párrafo
+
+justificado.
+
+
+ESCUELA
+IPCHILE 9 INGENIERÍA Y PROCESOS
+
+INSTITUTO PROFESIONAL DE CHILE
+Escuela de Ingeniería y Procesos Industriales INDUSTRIALES
+
+—ÑÍ— Ú — F —Ñ ]] o _——].——Ú—;—;—————;—;—;;—;]—;];LE O PA
+
+2. Surespuesta debe considerar el desarrollo de una plana como máximo por pregunta.
+3. Documento debe contener una pequeña introducción además de su apropiada conclusión
+
+BIBLIOGRAFIA:
+Bobadilla Sancho, J. (1999). HTML Dinámico, ASP, JavaScript: A Través de Ejemplos. Madrid: RA-MA. López
+
+Quijado José. (2010). Domine JavaScript (3a. Ed.). Madrid: Ra-Ma
+
+Caso 1:
+
+Descripción: Una pequeña librería local desea expandir su negocio y vender sus libros en línea. Para ello,
+necesitan un sitio web que muestre su catálogo de libros, permita a los usuarios navegar por las categorías,
+agregar libros al carrito de compras y realizar pagos seguros. Además, desean que el sitio sea visualmente
+atractivo y fácil de navegar.
+
+La librería desea que el sitio web tenga las siguientes características:
+1. Catálogo de libros: Los libros deben estar organizados por categorías, como ficción, no ficción, literatura
+clásica, etc. Cada libro debe mostrar su título, autor, precio y una imagen de portada.
+
+2. Página de detalles del producto: Cuando un usuario haga clic en un libro, debería llevarlo a una página
+de detalles del producto que muestre información más detallada sobre ese libro en particular, como una
+sinopsis, fecha de publicación, número de páginas, etc.
+
+3.  Carrito de compras: Los usuarios deben poder agregar libros al carrito de compras desde cualquier página
+del sitio. Deben poder ver los libros que han agregado al carrito y la cantidad de cada uno.
+
+4. Proceso de pago seguro: Después de agregar libros al carrito, los usuarios deben poder proceder al
+proceso de pago. El sitio web debe proporcionar un formulario seguro para que los usuarios ingresen su
+información de pago y confirmen su pedido.
+
+5. Diseño atractivo y fácil navegación: El diseño del sitio web debe ser atractivo y fácil de navegar para los
+
+usuarios. Se debe prestar atención a la estética y usabilidad del sitio para garantizar una experiencia de
+usuario positiva.
+
+PREGUNTAS:
+
+¿Qué elementos HTMIL serían necesarios para construir la página principal de la tienda de libros en línea?
+Ejemplifique
+
+¿Cómo se podría implementar un sistema de categorías de libros utilizando HTML y CSS? Explique
+
+¿Qué técnicas de diseño responsivo en CSS se podrían utilizar para garantizar que el sitio web se vea bien
+en dispositivos móviles y de escritorio?
+
+
+IPCHILE
+
+INSTITUTO PROFESIONAL DE CHILE
+
+Escuela de Ingeniería y Procesos Industriales
+
+ESCUELA
+
+INGENIERÍA Y PROCESOS
+INDUSTRIALES
+
+¿Cómo se podría diseñar una página de detalles de producto utilizando HTML y CSS, que muestre
+información detallada sobre un libro específico? Desarrolle
+
+¿Qué consideraciones de accesibilidad se deberían tener en cuenta al desarrollar el sitio web de la tienda
+de libros en línea, y cómo se podrían implementar mediante HTML y CSS?
+
+RÚBRICA
+CRITERIOS DE Puntaje
+EVALUACIÓN 4 pts. 3 pts. 2 pts. 1 pto obtenido
+Las respuestas están Las respuestas están Las respuestas están | Las respuestas
+completamente alineadas | relacionadas con el relacionadas con el están
+o con el caso práctico y caso práctico y caso práctico, pero completamente
+Precisión y
+Pertinencia abordan todos los abordan los aspectos carecen de detalles o | fuera del tema o
+aspectos relevantes con principales del son vagas. no están
+claridad y precisión. problema. relacionadas con
+el caso práctico.
+El diseño es muy efectivo y | El diseño es El diseño se adapta a | El diseño no se
+se adapta perfectamente a | relativamente bueno y | algunos dispositivos, | adapta a ningún
+Calidad del todos los dispositivos, se adapta a la mayoría | pero aún tiene dispositivo y
+Diseño proporcionando una de los dispositivos, problemas presenta graves
+Responsivo experiencia de usuario aunque puede haber significativos de problemas de
+excepcional en todas las algunos problemas visualización en visualización.
+plataformas. menores. otros.
+El sitio web cumple con El sitio web cumple con | El sitio web cumple El sitio web no
+todas las pautas de la mayoría de las con algunas pautas cumple con
+accesibilidad y pautas de accesibilidad | de accesibilidad, ninguna pauta de
+proporciona una y es accesible para la pero aún presenta accesibilidad y
+Accesibilidad experiencia óptima para mayoría de las b.arr.e.ras. dificglta en gran
+todas las personas, personas con significativas para medida la
+independientemente de discapacidad. personas con experiencia de
+sus capacidades. discapacidad. usuario para
+personas con
+discapacidad.
+Las respuestas son
+altamente creativas Yy | Las respuestas son Las respuestas son Las respuestas son
+originales, ofreciendo | creativas y demuestran | básicas y muestran genéricas, carecen
+Creatividad y ideas innovadoras Y | una perspectiva única, | poca originalidad, de originalidad y
+Originalidad soluciones fuera de lo | aportando nuevas ofreciendo ideas no aportan nuevas
+común que enriquecen | ideas y enfoques al convencionales y ideas o enfoques
+significativamente el | problema. soluciones comunes. | al problema.
+enfoque del problema.
+CRITERIOS DE Puntaje
+EVALUACIÓN 4 pts. 3 pts. 2 pts. 1pto obtenido
+COMPETENCIAS | Demuestra proactividad Muestra un Muestra un | Requiere una
+SOCIALES en la búsqueda de compromiso sólido con | compromiso básico | supervisión
+
+
+IPCHILE
+
+INSTITUTO PROFESIONAL DE CHILE
+
+Escuela de Ingeniería y Procesos Industriales
+
+ESCUELA
+INGENIERÍA Y PROCESOS
+INDUSTRIALES
+
+. — r — ][ 5 D—_]—)T ND]——;D—;—];[—L—L—L—z—]Ú—]—;—]— Z
+
+Demuestra soluciones y en la mejora su trabajo y demuestra | con las | constante para
+compromiso continua de su responsabilidad en sus | responsabilidades, completar las
+con el desempeño. acciones. pero a veces necesita | tareas.
+cumplimiento una mayor
+de las tareas motivación.
+encomendadas
+
+Caso2:
+
+Imagina que estás revisando el código de un sistema de gestión de una biblioteca. El siguiente
+fragmento de código muestra una función que busca libros por su título en una base de datos y
+devuelve los resultados encontrados.
+
+resultados = [];
+
+(titulo, libros) fí
+
+( libro libros) f
+
+(libro.titulo.
+
+resultados.
+
+resultados;
+
+PREGUNTAS:
+
+(titulo)) f
+
+(libro);
+
+¿Qué hace la función buscarLibrosPorTitulo?
+
+¿Cómo se almacenan los resultados de la búsqueda dentro de la función?
+
+¿Por qué se utiliza un bucle for...of en lugar de otro tipo de bucle?
+
+¿Cuál es el propósito de la variable título en el contexto de la función?
+
+¿Qué pasaría si el título proporcionado como argumento a la función no coincide exactamente con ningún
+título de libro en la base de datos?
+
+
+IPCHILE
+
+INSTITUTO PROFESIONAL DE CHILE
+
+Escuela de Ingeniería y Procesos Industriales
+
+ESCUELA
+
+INGENIERÍA Y PROCESOS
+INDUSTRIALES
+
+RÚBRICA
+CRITERIOS DE Puntaje
+EVALUACIÓN 4 pts. 3 pts. 2 pts. 1pto obtenido
+La respuesta La respuesta incluye La respuesta La respuesta se
+proporciona una una descripción proporciona una limita a
+descripción completa del | detallada de cómo descripción general | descripciones
+PA código, incluyendo funciona el código, del propósito y básicas o
+Análisis del . . . . .
+código detalles sobr,e .su identificando fu¡ngonam¡ento del decliarac¡ones
+estructura, lógica correctamente las código. obvias.
+subyacente y posibles estructuras de control,
+mejoras o alternativas. funciones y variables
+utilizadas.
+Sigue con precisión y Sigue con precisión el Puede seguir el Tiene dificultades
+explicar en detalle el orden en el que se orden general enel | para identificar
+Seguimiento orden de ejecución de ejecutan las que se ejecutan las | cómo los valores de
+ejecución cada instrucción y cómo — | instrucciones en el instrucciones en el las variables
+interactúan entre sí. código. código. cambian a lo largo
+del programa.
+Identifica y explica Explica claramente el Identifica el No muestra
+exhaustivamente el propósito de la propósito de comprensión sobre
+propósito y la mayoría de las algunas variables, cómo las variables
+Función de importancia de cada variables y cómo pero puede perder | contribuyen al
+variables variable, así como su contribuyen al detalles o no funcionamiento del
+papel en el contexto del — | funcionamiento del explicar código.
+código. código. completamente su
+función.
+Las respuestas tienen | Las respuestas Las respuestas Las respuestas
+excelente redacción y | presentan algunos presentan varios presentan errores
+ortografía lo que permite | errores ortográficos errores ortográficos | graves de redacción
+Presentación que sea de - fácil | y/o de redacción, sin y/o de y/u ortográficos, los
+comprensión. embargo, se comprensión que cuales dificultan la
+comprende. dificultan en parte comprensión.
+la comprensión
+CRITERIOS DE Puntaje
+EVALUACIÓN 4 pts. 3 pts. 2 pts. 1pto obtenido
+COMPETENCIAS Demuestra proactividad | Muestra un | Muestra un | Requiere una
+SOCIALES en la hbúsqueda de | compromiso sólido con | compromiso básico | supervisión
+Demuestra soluciones y en la mejora | su trabajo y demuestra | con las | constante para
+compromiso con continua de su | responsabilidad en sus | responsabilidades, completar las
+el cumplimiento desempeño. acciones. pero a veces | tareas.
+de las tareas necesita una mayor
+encomendadas motivación.
+
+
+ESCUELA
+
+IPCHILE 9 INGENIERÍA Y PROCESOS
+
+INSTITUTO PROFESIONAL DE CHILE
+Escuela de Ingeniería y Procesos Industriales INDUSTRIALES
+
+—ÑÍ— Ú — F —Ñ ]] o _——].——Ú—;—;—————;—;—;;—;]—;];LE O PA
+
+Caso 3:
+
+En una universidad prestigiosa, la biblioteca universitaria ha decidido actualizar su sistema de gestión para
+mejorar la eficiencia y la experiencia del usuario. El objetivo es implementar un Sistema de Gestión de
+Biblioteca utilizando Java Enterprise Edition (JEE). Este sistema permitirá a los usuarios buscar libros, realizar
+préstamos, devolver libros, administrar sus cuentas y proporcionar a los bibliotecarios herramientas para
+administrar el inventario y los préstamos.
+
+Solicitudes del Sistema:
+
+1. Registro de Usuarios: El sistema debe permitir a los usuarios registrarse proporcionando información
+como nombre, dirección de correo electrónico, número de identificación de estudiante (para estudiantes)
+o identificación de empleado (para profesores y personal). Además, se debe verificar la unicidad de la
+dirección de correo electrónico y la identificación del usuario.
+
+2. Búsqueda de Libros: Los usuarios deben poder buscar libros en el catálogo de la biblioteca utilizando
+criterios como título, autor, categoría, ISBN, etc. El sistema debe proporcionar resultados de búsqueda
+relevantes y mostrar la disponibilidad de los libros en tiempo real.
+
+3. Préstamo de Libros: Los usuarios registrados deben poder solicitar préstamos de libros disponibles. El
+sistema debe verificar la disponibilidad del libro y permitir al usuario programar la fecha de devolución.
+Se debe generar una confirmación del préstamo que incluya los detalles del libro y la fecha de devolución.
+
+4. Devolución de Libros: Los usuarios deben poder devolver los libros prestados una vez que hayan
+completado su lectura. El sistema debe actualizar automáticamente el estado del libro a "disponible" y
+calcular cualquier multa aplicable en caso de devolución tardía.
+
+5. Administración de Inventario: Los bibliotecarios deben poder agregar nuevos libros al inventario,
+actualizar información existente (como el estado de disponibilidad), y eliminar libros obsoletos. Además,
+deben poder generar informes sobre el estado del inventario, los libros más populares, etc.
+
+¿Cuáles serán los campos obligatorios en el formulario de registro de usuarios y cómo manejará el sistema
+la validación de la unicidad de la dirección de correo electrónico y la identificación del usuario?
+
+¿Cómo se implementará la funcionalidad de búsqueda de libros para garantizar resultados precisos y
+eficientes? ¿Qué estrategias se utilizarán para indexar y buscar en el catálogo de la biblioteca?
+
+¿Cómo manejará el sistema la lógica de préstamo de libros, incluyendo la verificación de disponibilidad, la
+asignación de fechas de devolución y la generación de confirmaciones de préstamo? ¿Se utilizarán
+transacciones para garantizar la integridad de los datos durante el proceso de préstamo?
+
+¿Cuál será el flujo de trabajo para la devolución de libros por parte de los usuarios? ¿Cómo se actualizará
+el estado de disponibilidad de los libros devueltos y cómo se calcularán y aplicarán las multas en caso de
+devolución tardía?
+
+
+ESCUELA
+
+IPCHILE 9 INGENIERÍA Y PROCESOS
+
+INSTITUTO PROFESIONAL DE CHILE
+Escuela de Ingeniería y Procesos Industriales INDUSTRIALES
+
+—ÑÍ— Ú — F —Ñ ]] o _——].——Ú—;—;—————;—;—;;—;]—;];LE O PA
+
+¿Qué funcionalidades específicas necesitarán los bibliotecarios para administrar el inventario de la
+biblioteca? ¿Se implementarán herramientas de generación de informes y análisis para proporcionar
+información sobre el estado del inventario y el uso de los libros?
+
+RÚBRICA
+CRITERIOS DE Puntaje
+EVALUACIÓN 4 pts. 3 pts. 2 pts. 1pto obtenido
+La solución aborda La solución cubre la La solución La solución no
+completamente el mayoría de los proporciona aborda
+requisito aspectos del información básica adecuadamente el
+Precisión de la p|antea<;lo, requisito,,pero puede | sobre el requisito, requisit9 o
+solución proporcionando faltar algún detalleo | pero carece de proporciona
+detalles precisos y ser un poco vaga en detalles importantes | información
+completos. algunos puntos. o claridad en la incorrecta o
+explicación. irrelevante.
+La respuesta sigue La respuesta es La respuesta tiene La respuesta carece
+una estructura coherente en su algunos problemas de coherencia y
+lógica clara y está mayoría, pero puede | de coherencia o estructura lógica, lo
+Coherencia y Lógica bien organizada. haber algunas “ Iégica, lo quei q.uía .hace que sea
+Los puntos clavese | lagunas en la lógica o| dificulta seguir el difícil comprender los
+presentan de la organización de la flujo de ideas. puntos presentados.
+manera coherente información.
+y fácil de seguir.
+La respuesta va La respuesta La respuesta La respuesta carece
+más allá de los proporciona un presenta algún de análisis
+aspectos análisis adecuado del | análisis, pero es significativo y se
+superficiales del requisito, pero puede | limitado en limita a descripciones
+requisito y ofrece haber espacio para profundidad o no superficiales sin
+Profundidad de un análisis una exploración más | aborda todos los explorar posibles
+Análisis detallado y profunda de ciertos aspectos relevantes. implicaciones o
+reflexivo, aspectos. alternativas.
+considerando
+posibles
+implicaciones y
+alternativas.
+Las respuestas | Las respuestas Las respuestas Las respuestas
+tienen excelente | presentan algunos presentan varios presentan errores
+redacción y | errores ortográficos errores ortográficos graves de redacción
+Presentación ortografía lo que | y/o de redacción, sin | y/o de comprensión y/u ortográficos, los
+permite que sea de | embargo, se que dificultan en cuales dificultan la
+fácil comprensión. comprende. parte la comprensión | comprensión.
+CRITERIOS DE Puntaje
+EVALUACIÓN 4 pts. 3 pts. 2 pts. 1pto obtenido
+COMPETENCIAS Demuestra una | Reconoce Muestra alguna | No demuestra
+SOCIALES profunda activamente la | conciencia de la | conciencia de la
+
+
+IPCHILE
+
+INSTITUTO PROFESIONAL DE CHILE
+
+Escuela de Ingeniería y Procesos Industriales
+
+ESCUELA
+
+INGENIERÍA Y PROCESOS
+
+INDUSTRIALES
+
+—ÑÍ— Ú — F —Ñ ]] o _——].——Ú—;—;—————;—;—;;—;]—;];LE O PA
+
+Reconoce su postura | conciencia de la | existencia de | diversidad de | diversidad de
+y opiniones distintas | diversidad de | opiniones diferentes, | opiniones, pero tiene | opiniones y posturas.
+
+a las propias. opiniones Y | mostrando apertura a | dificultades para | No muestra
+posturas. Actúa con | considerar reconocer y aceptar | disposición para
+empatía y acepta de | perspectivas posturas distintas a | considerar otras
+manera reflexiva las | alternativas. las propias. perspectivas.
+perspectivas
+diferentes.
+
+INDICADORES Y DESCRIPTORES DE LA EVALUACIÓN:
+NIVELES DE DESCRIPCIÓN PUNTUACIÓN | PUNTAJE PORCENTAJE
+COMPETENCIA OBTENIDO
+Destacado Nivel excepcional de desempeños, evidenciando dominio
+a nivel de habilidades, conocimientos y actitudes. 4 81% a 100%
+Nivel de desempeños esperado. Evidencia de logro
+Competente recomendable para desempeñarse en el contexto laboral. 3 60% a 80%
+Nivel de desempeño bajo lo esperado. Se observan
+Básico algunas dificultades en su 1nivel de desempeño. 2 32% a 59%
+El desempeño adolece de deficiencias importantes. Muy
+por debajo de lo esperado, manifestando escaso dominio 0% a 30%
+Deficiente a nivel de conocimientos, habilidades y actitudes, para 1
+desempeñarse de manera óptima.
+ESCALA DE NOTAS:
+0.0 10 100 18 2.0 27 300 35 400 45 500 58 600 70
+1.0 11 11.0 19 210 286 310 36 410 46 510 59
+20 12 120 20 220 286 320 37 420 48 520 60
+30 13 130 21 230 2939 330 38 430 439 530 61
+40 13 140 22 240 30 340 38 440 50 540 63
+50 14 150 23 250 31 350 39 450 51 550 64
+6.0 15 160 23 260 32 360 40 460 53 560 65
+70 16 170 24 270 33 370 41 47.0 54 570 66
+8.0 17 180 25 280 33 380 43 480 55 580 68
+90 18 190 26 290 134 390 144 490 56 590 69
