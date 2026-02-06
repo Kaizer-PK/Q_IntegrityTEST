@@ -3360,17 +3360,8 @@ def _read_pdf_text_robust(abs_path: str, force_ocr: bool = False) -> Tuple[str, 
     try:
         from pdf2image import convert_from_path  # type: ignore
         import pytesseract  # type: ignore
-        poppler_path = os.environ.get("POPPLER_PATH", None)
-        if not poppler_path:
-            found_poppler = _find_poppler_path()
-            if found_poppler:
-                poppler_path = found_poppler
-                # configurar para este proceso
-                os.environ["POPPLER_PATH"] = poppler_path
-                diag.append(f"Autodetectado POPPLER_PATH={poppler_path}")
-        pytesseract.pytesseract.tesseract_cmd = os.environ.get("TESSERACT_CMD", "tesseract")
-        diag.append(f"Usando TESSERACT_CMD={pytesseract.pytesseract.tesseract_cmd} poppler_path={poppler_path}")
-        images = convert_from_path(abs_path, dpi=300, poppler_path=poppler_path)
+        # En Streamlit Cloud, Poppler y Tesseract están en el PATH del sistema
+        images = convert_from_path(abs_path, dpi=300)
         diag.append(f"convert_from_path devolvió {len(images)} imágenes")
         ocr_pages: List[str] = []
         for idx, img in enumerate(images):
@@ -3476,7 +3467,7 @@ def render_pantalla_8_ia():
         st.error("Archivo físico no encontrado en biblioteca_eett/.")
         return
 
-    # --- MODIFICADO: Extracción y OCR completamente backend, sin controles ni mensajes extra ---
+    # --- MODIFICADO: Extracción y OCR ---
     text = ""
     if ext == "docx":
         text = _read_docx_text_robust(abs_path)
@@ -3484,12 +3475,12 @@ def render_pantalla_8_ia():
             st.error("No pude extraer texto desde el Word. (El archivo en disco no parece ser un DOCX válido o está vacío).")
             return
     elif ext == "pdf":
-        # Extracción nativa, si falla o es insuficiente, OCR automático (todo backend)
+        # Extracción nativa, si falla o es insuficiente, OCR automático
         text, diag = _read_pdf_text_robust(abs_path, force_ocr=False)
         if not text or len(text.strip()) < 200:
             text, diag = _read_pdf_text_robust(abs_path, force_ocr=True)
         if not text.strip():
-            st.error("No pude extraer texto desde el PDF. Revisa que Poppler y Tesseract estén instalados en el sistema.")
+            st.error("No pude extraer texto desde el PDF.")
             return
     else:
         st.warning("Tipo de archivo no soportado. Esta demo analiza DOCX y PDF (con OCR).")
@@ -3501,7 +3492,7 @@ def render_pantalla_8_ia():
         st.warning(f"Idioma detectado: {lang}. El motor espera principalmente documentos en español.")
         if not st.checkbox("Continuar de todos modos (texto no en español)", value=False):
             return
-    # --- FIN MODIFICACIÓN: extracción y OCR backend ---
+    # --- FIN MODIFICACIÓN: extracción y OCR ---
 
     # ANALISIS DE IA Y GENERACION DE CHECKLISTS QA/QC
     # Leer las revisiones de checkboxes previas existentes
